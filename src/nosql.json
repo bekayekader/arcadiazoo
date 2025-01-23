@@ -1,0 +1,64 @@
+{
+  "zoo": {
+    "nom": "Arcadia",
+    "description": "Le zoo Arcadia est bien plus qu'un simple parc animalier. Grâce à son engagement écologique, ses habitats immersifs, et son souci constant du bien-être animal, il offre à ses visiteurs une expérience unique et enrichissante.",
+    "adresse": {
+      "rue": "Route de Brocéliande",
+      "ville": "Bretagne",
+      "region": "Morbihan",
+      "code_postal": "56800",
+      "pays": "France"
+    },
+    "contacts": {
+      "telephone": "+33-2-97-00-00-00",
+      "email": "contact@zooarcadia.fr",
+      "site_web": "https://zooarcadia.fr",
+      "reseaux_sociaux": {
+        "facebook": "https://facebook.com/zooarcadia",
+        "instagram": "https://instagram.com/zooarcadia",
+        "twitter": "https://twitter.com/zooarcadia"
+      }
+    },
+    "employes": [
+      {
+        "id": "EMP001",
+        "nom": "Jean Le Gall",
+        "poste": "Directeur Général",
+        "email": "j.legall@zooarcadia.fr",
+        "telephone": "+33-6-12-34-56-78"
+      },
+      {
+        "id": "EMP002",
+        "nom": "Aminata Dupuis",
+        "poste": "Responsable Bien-être Animal",
+        "email": "a.dupuis@zooarcadia.fr",
+        "telephone": "+33-6-23-45-67-89"
+      },
+      {
+        "id": "EMP003",
+        "nom": "Mohamed Laurent",
+        "poste": "Guide Touristique",
+        "email": "m.laurent@zooarcadia.fr",
+        "telephone": "+33-6-98-76-54-32"
+      }
+    ],
+    "horaires": {
+      "ouverture": "09:00",
+      "fermeture": "19:00",
+      "jours_ouverts": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
+    },
+    "tarifs": {
+      "adulte": 15,
+      "enfant": 10,
+      "reduction_groupe": 20
+    },
+    "engagement_ecologique": {
+      "initiatives": [
+        "Recyclage des déchets",
+        "Réduction de l'empreinte carbone",
+        "Partenariats avec des organisations de conservation"
+      ],
+      "certifications": ["Green Zoo Initiative", "Eco-friendly Park 2024"]
+    }
+  }
+}
